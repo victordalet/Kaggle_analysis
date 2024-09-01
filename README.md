@@ -3,9 +3,6 @@
 ---
 
 
-- Chat bot with Paris JO DATA 
-https://github.com/victordalet/Kaggle_analysis/tree/feat/paris_2024_olympics
+## Dataset
 
-
-- Amazon price vs rating
-https://github.com/victordalet/Kaggle_analysis/tree/feat/amazon_products
+https://www.kaggle.com/datasets/anthonytherrien/website-traffic
