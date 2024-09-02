@@ -2,14 +2,10 @@
 
 ---
 
+## Source : 
 
-- Chat bot with Paris JO DATA 
-https://github.com/victordalet/Kaggle_analysis/tree/feat/paris_2024_olympics
+https://www.lekaba.fr/article/l-empreinte-carbone-des-chiens-et-des-chats-un-amour-qui-pese-lourd-sur-le-climat
 
+https://www.umweltbundesamt.de/en/image/global-f-gas-emissions-up-to-2050-total
 
-- Amazon price vs rating
-https://github.com/victordalet/Kaggle_analysis/tree/feat/amazon_products
-
-
-- Time website Analysis
-https://github.com/victordalet/Kaggle_analysis/tree/feat/website_traffic
+https://www.rover.com/fr/blog/combien-y-a-t-il-de-chats-dans-le-monde/
